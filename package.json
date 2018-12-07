@@ -1,5 +1,5 @@
 {
-  "name": "vue-sessionstorage",
+  "name": "VueSessionStorage",
   "version": "1.0.1",
   "description": "A Simple Plugin to Deal with SessionStorage on Vue.js",
   "main": "dist/vue-sessionstorage.min.js",
@@ -12,7 +12,7 @@
     "sessionstorage",
     "storage"
   ],
-  "author": "wac2007",
+  "author": "me-jamshidi (originally wac2007)",
   "license": "ISC",
   "devDependencies": {
     "babel-loader": "^6.2.10",
